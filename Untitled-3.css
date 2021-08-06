@@ -1,0 +1,101 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*{
+	padding:0;
+	margin:0;
+	font-family:"Gill Sans", "sans-serif";
+	
+}
+
+.nav{
+	background-color:#36384C;
+	color:white;
+	
+	
+}
+.nav img{padding-left:10%;}
+.nav ul{float:right;
+	list-style:none;
+	padding-right:10%;	
+}
+.nav ul li { display:inline-block;
+	padding:30px 20px;}
+
+.content #content1 {
+	background-image:url("coffee-983955_1920 (1).jpg") ;
+		height:600px;
+		background-size:cover;
+	text-align:center;
+	background-position:center;
+}
+.content img{
+
+}
+
+.content #content1 h1{
+	padding-top:200px;
+	font-size:80px;
+	color:white;
+}
+.can2ben{padding:100px 250px;}
+.content #content2{
+	background-color:#e9dccd;
+	
+
+}
+.imgabout{
+	inline:table;
+	padding-top:40px;
+	height:200px;
+	width:24%;	
+}
+
+.content #content3 {
+	background-color:#36384C;
+	color:white;
+	overflow:hidden;
+}
+.bentrai{
+	padding-top:30px;
+	width:49%;
+	text-align:center;
+	float:left;
+	display:block;
+	
+}
+.bentrai #anhtrai {width:90%;
+	padding:20px 0;
+	}
+.benphai{
+	padding-top:30px;
+	width:50%;
+	text-align:center;
+	float:left;
+}
+#anhphai{width:90%;
+	padding:20px 0;
+}
+
+.content #content4 {
+	background-color:#E9DCCD;
+	overflow:hidden;
+	
+	
+}
+#map{height:300px;
+	float:left;}
+.hocphai{float:left;
+	display:inline-block;
+	padding-left:30px}
+
+.footer{text-align:center;
+	background-color:#FFF500}
+
+	
+	
+
+
+
+
+
