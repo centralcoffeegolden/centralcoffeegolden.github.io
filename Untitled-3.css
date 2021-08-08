@@ -95,6 +95,7 @@
 .content5{background-color:#36384C;
 	color:white;
 	align-items: center;
+	z-index:40;
 }
 
 input,textarea {border:none;
