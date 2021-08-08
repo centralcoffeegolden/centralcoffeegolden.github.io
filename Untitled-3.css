@@ -91,7 +91,29 @@
 
 .footer{text-align:center;
 	background-color:#FFF500}
+.content5{background-color:#36384C;
+	color:white;
+	align-items: center;
+	
+}
 
+input,textarea {border:none;
+	border-bottom:1px solid #FF0004;
+	margin:10px 5px 0 0;
+	background:transparent;
+	font-size:15px;
+	
+	color:white;
+}
+
+#gui{background-color:white;
+	padding:5px 10px;
+	font-size: 15px;
+	margin-top:20px;
+	color:#36384C;
+}
+#why{padding-top:40px;}
+	
 	
 	
 
